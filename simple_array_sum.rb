@@ -36,4 +36,3 @@ def simpleArraySum(ar)
 # write your code bellow
 ar.sum   
 end
-
