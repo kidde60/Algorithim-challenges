@@ -6,7 +6,6 @@
 4. Wait for the result of the "GitHub Classroom Workflow" action. If it is green - congratulations, you solved this challenge! If not - try again!
 5.  *You can watch an example of how to solve a challenge in the video linked in the theoretical lesson preceding this challenge.*
 
-
 ## Challenge description
 
 ### Sets
