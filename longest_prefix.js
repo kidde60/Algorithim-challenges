@@ -1,19 +1,5 @@
 
 function trial(arr){
-   
-    // for(let i =0; i < arr.length; i++){
-    //     let firstElement = arr[0]
-       
-    //     for (let j = i+1; j<arr.length; j++){
-    //         let count = 0
-    //         if(firstElement.charAt(count) == arr[j].charAt(count)){
-    //             prefix = 
-    //             console.log()
-    //         }
-    //         console.log(arr[j]);
-    //     }
-
-    // }
     if(arr.length==0){
         return "There nothing";
     }else if(arr.length==1){
