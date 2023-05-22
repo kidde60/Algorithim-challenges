@@ -1,5 +1,5 @@
 
-function trial(arr){
+function longestPrefix(arr){
     if(arr.length==0){
         return "There nothing";
     }else if(arr.length==1){
@@ -20,4 +20,4 @@ function trial(arr){
         return pref;
     }
 }
-trial(["flower","flow","flight"])
+longestPrefix(["flower","flow","flight"])
