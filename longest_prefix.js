@@ -36,7 +36,7 @@ function trial(arr){
                 break;
             }
         }
-        // console.log(pref)
+        console.log(pref)
         return pref;
     }
 }
