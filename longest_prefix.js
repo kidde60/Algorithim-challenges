@@ -22,14 +22,8 @@ function trial(arr){
         let sortedArr=arr.sort();
         let first=sortedArr[0];
         let last=sortedArr[sortedArr.length-1];
-        let len;
-        if(first.length>=last.length){
-             len=first.length;
-        }else{
-             len=last.length;
-        }
         let pref="";
-        for(let i=0; i<len; i++){
+        for(let i=0; i<first.length; i++){
             if(first[i]===last[i]){
                 pref= pref+ first[i];
             }else{
