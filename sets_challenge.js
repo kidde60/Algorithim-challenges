@@ -17,6 +17,7 @@ function findDuplicates(array) {
   console.log(set)
   console.log(myArray)
 }
+
 findDuplicates([1, 2, 3, 1, 5, 6, 7, 8, 5, 2])
 // => [1, 5, 2]
 
