@@ -10,7 +10,6 @@ function getDifferentNumber(arr) {
       return i; // Return the smallest nonnegative integer not present in the array
     }
   }
-
   // If all nonnegative integers from 0 to n are present in the array, return n+1
   return n + 1;
 }
