@@ -36,8 +36,7 @@ const arr = [1, 2, 3, 1, 5, 6, 7, 8, 5, 2]
 
 console.log(find_duplicates(arr))
 // => [1, 5, 2]
-```
-
+``
 
 ### Troubleshooting
 
