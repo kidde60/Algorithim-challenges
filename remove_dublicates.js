@@ -2,6 +2,7 @@ var removeDuplicates = function(nums) {
     let noDup= new Set(nums);
     let newArr=[];
     newArr.push(...noDup);
+    
     return newArr;
 };
 
