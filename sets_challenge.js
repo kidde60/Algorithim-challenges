@@ -11,6 +11,7 @@ function findDuplicates(array) {
   //   }
   // }
   // console.log(array)
+  
   // return array;
 
   let set = new Set(array)
