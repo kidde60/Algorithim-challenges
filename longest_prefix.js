@@ -1,4 +1,5 @@
 function longestPrefix(arr){
+    
     if(arr.length==0){
         return "There nothing";
     }else if(arr.length==1){
