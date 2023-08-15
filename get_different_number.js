@@ -1,4 +1,5 @@
 function getDifferentNumber(arr) {
+  
   const n = arr.length;
 
   // Create a set to store the unique values from the array
