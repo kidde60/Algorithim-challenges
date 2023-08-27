@@ -1,4 +1,5 @@
 const findDuplicates = require('./challenge')
+
 const assert = require('assert')
 describe('Tests', function () { 
   it('array_of_fifteen_positions', function () {
