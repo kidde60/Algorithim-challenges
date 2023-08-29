@@ -1,5 +1,4 @@
 ## How to solve this challenge?
-
 1. Read the "Challenge description" below.
 2. Make changes to the [challenge.js](./challenge.js) file.
 3. Commit your changes.
